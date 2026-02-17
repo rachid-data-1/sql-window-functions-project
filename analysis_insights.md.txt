@@ -1,0 +1,16 @@
+Top Performers
+Khalid (Sales): Consistently #1 each month | Best: 35,000 (March)
+
+Ahmed (Sales): Most improved (+8,000 from Feb to March)
+
+Department Highlights
+Department	Avg Salary	Top Earner	Notes
+Sales	5,500	Khalid (95K total)	Strong performance
+Marketing	4,650	Nora (45K total)	Volatile pattern
+Development	6,750	Ali (31K total)	Low sales despite highest pay
+Monthly Leaders
+Jan: Khalid (32K) | Nora (15K) | Ali (9.5K)
+
+Feb: Khalid (28K) | Nora (17K) | Ali (11K)
+
+Mar: Khalid (35K) | Fatima (16K) | Ali (10.5K)
